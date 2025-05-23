@@ -20,4 +20,4 @@ class Bar:
         inner_function()
         return self.value 
 
-Bar(2, 5)
+Bar(2, 5) 
