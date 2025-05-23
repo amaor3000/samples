@@ -18,6 +18,6 @@ class Bar:
             return foo(4,5)
         
         inner_function()
-        return self.value
+        return self.value 
 
 Bar(2, 5)
